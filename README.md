@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Preview
 
-<img src="/Users/anthonydang/Documents/projects/nypd_eda/Screenshot 2024-04-10 at 7.18.38 PM.png">
+![Product Name Screen Shot][product-screenshot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ View `nypd.ipynb` to see how the datasets were processed. The dataset is unavail
 [license-url]: https://github.com/anthonydangg/twitch_viz/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anthony-dangg/
-[product-screenshot]: demo.gif
+[product-screenshot]: picture.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
